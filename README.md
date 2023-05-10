@@ -11,8 +11,9 @@
 Here are some ideas to get you started:
 
 -->
-<p align="center">
+<p>
       <h2>💻 Technical and Tool </h2>
+<div>     
      <a href="https://www.facebook.com/HaiNammm">
       <img src="https://img.icons8.com/bubbles/100/null/facebook-new.png"/>
 </a> 
@@ -32,5 +33,6 @@ Here are some ideas to get you started:
       <img src="https://img.icons8.com/color/48/null/css3.png"/>
       <img src="https://img.icons8.com/color/48/null/react-native.png"/>
       </p>
+      </div>
 </p>
 
