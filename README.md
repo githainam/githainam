@@ -1,5 +1,5 @@
-![logo](https://cdn.tgdd.vn/Files/2020/09/20/1291843/sb-blog-programming_800x450.jpg)
-###                                               <h1> Hi 👋, I'm Hai Nam </h1> 
+![logo](https://img4.thuthuatphanmem.vn/uploads/2020/06/05/anh-nen-cong-nghe-du-lieu_103227274.jpg)
+<h1 align="center"> Hi 👋, I'm Hai Nam </h1> 
       
 - 🌱 I’m interesting in Web Programming and want to be Software Engineer 
 - 📫 Contact me: hainamrin230802@gmail.com
