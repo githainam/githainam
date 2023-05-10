@@ -1,4 +1,5 @@
-###                                               Hi 👋, I'm Hai Nam 
+![logo]
+###                                               <h1> Hi 👋, I'm Hai Nam </h1> 
       
 - 🌱 I’m interesting in Web Programming and want to be Software Engineer 
 - 📫 Contact me: hainamrin230802@gmail.com
@@ -10,8 +11,8 @@
 Here are some ideas to get you started:
 
 -->
-<p align= "center">
-      <p>💻 Technical and Tool </p>
+<p align="center">
+      <h2>💻 Technical and Tool </h2>
      <a href="https://www.facebook.com/HaiNammm">
       <img src="https://img.icons8.com/bubbles/100/null/facebook-new.png"/>
 </a> 
@@ -27,5 +28,9 @@ Here are some ideas to get you started:
       <img src="https://img.icons8.com/glyph-neue/64/null/github.png"/>
 </a>
  <img src="https://img.icons8.com/fluency/48/null/visual-studio-code-2019.png"/>
+      <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
+      <img src="https://img.icons8.com/color/48/null/css3.png"/>
+      <img src="https://img.icons8.com/color/48/null/react-native.png"/>
       </p>
 </p>
+
