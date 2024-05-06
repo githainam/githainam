@@ -1,8 +1,6 @@
 ![logo](https://img4.thuthuatphanmem.vn/uploads/2020/06/05/anh-nen-cong-nghe-du-lieu_103227274.jpg)
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&random=false&width=435&lines=Hi+%2C+I'm+Hai+Nam+%F0%9F%91%8B" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center">Hi 👋, I'm Hai Nam</h1>
 <h3 align="center">A passionate Software engineer from VietNam</h3>
 
 
@@ -30,7 +28,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githainam&show_icons=true&locale=en&layout=compact" alt="githainam" /></p>
-
-<p>&nbsp;<img align="center", background-color="black" src="https://github-readme-stats.vercel.app/api?username=githainam&show_icons=true&locale=en" alt="githainam" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=githainam&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10" alt="githainam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githainam&show_icons=true&locale=en&theme=react&border_radius=10" alt="githainam" /></p>
+</div>
