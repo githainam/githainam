@@ -1,6 +1,8 @@
 ![logo](https://img4.thuthuatphanmem.vn/uploads/2020/06/05/anh-nen-cong-nghe-du-lieu_103227274.jpg)
 
-<h1 align="center">Hi 👋, I'm Hai Nam</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=23&pause=1000&random=false&width=435&lines=Hi+%2C+I'm+Hai+Nam+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</h1>
 <h3 align="center">A passionate Software engineer from VietNam</h3>
 
 
